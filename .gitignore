@@ -1,2 +1,3 @@
-# ignora tudo no ambiente virtual do vscode
+# ignora as tabelas:
 .venv/
+mlruns/
