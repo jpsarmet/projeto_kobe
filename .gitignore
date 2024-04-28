@@ -1,3 +1,3 @@
 # ignora as tabelas:
-.venv/
+venv/
 mlruns/
